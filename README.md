@@ -16,7 +16,7 @@ Importing the relevant libraries and classifiers
 1.	Model Selection : Our  problem is a classification problem and so therefore we have decided to go with any of the classification algorithms.: DecisionTreeClassifier
 2.	Split : Understating our predictors(x) and targets(y) and splitting our dataset accordingly
 3.	DecisionTreeClassifier: We fit and train our model using this algorithm
-4.	Model check: We check the accuracy of our model, confusion_matrix and classification report and not satisfied with the accuracy cos of how low it was, we then employed the oversampling technique.
+4.	Model check: We check the accuracy of our model, confusion_matrix and classification report and not satisfied with the accuracy because of how low our accuracy was, we then employed the oversampling technique.
 
 
 
